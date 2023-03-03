@@ -1,4 +1,4 @@
-﻿namespace Valorant_Chiral
+﻿namespace ConsoleMenu
 {
     public class Menu
     {
