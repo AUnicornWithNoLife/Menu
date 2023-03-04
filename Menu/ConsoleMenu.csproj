@@ -5,6 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AssemblyName>Menu</AssemblyName>
+    <PackageId>SimpleConsoleMenu</PackageId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="..\LICENSE" Pack="true" PackagePath="LICENSE.txt">
+      <Link>LICENSE</Link>
+    </None>
+  </ItemGroup>
 </Project>
